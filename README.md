@@ -6,9 +6,6 @@
 
 This is a solution to a [challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/password-generator-app-Mr8CLycqjh).
 
-### Retrospective
-- 
-
 ### Current process
 #### Setup
 1. Set up readme.md
@@ -34,4 +31,3 @@ This is a solution to a [challenge on Frontend Mentor](https://www.frontendmento
 
 ### Questions
 I'm learning frontend coding (and temporarily forcing myself to hand-code everything) because the Figma->UI process still needs human fine-tuning via manual code adjustment. I wonder if even that will be true in a year though, given how the recent advances by Claude Opus 4.6. I'm very interested in others' thoughts on this question!
-# password-generator-app
